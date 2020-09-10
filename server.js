@@ -15,9 +15,10 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://user1:password1@ds017688.mlab.com:17688/heroku_w4phkgkz", {
+mongoose.connect("mongodb+srv://user1:asdfgh1234@cluster0.ely5l.azure.mongodb.net/BudgetTracker?retryWrites=true&w=majority", {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  useUnifiedTopology: true
 });
 
 // routes
