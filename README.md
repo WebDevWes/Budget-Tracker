@@ -13,10 +13,12 @@ Description: Keeps track of your budget with this webapp, can be downloaded as a
 
 ![Screenshot](/assets/images/screenshot.png)
 
-How to use: Single page application, enter a description of your new transaction, enter an amount, and finally click whether you wish to ADD or SUBTRACT from your total.
+How to use: Single page application, enter a description of your new transaction, enter an amount and finally click whether you wish to ADD or SUBTRACT from your total.
+
 ---
 ![Screenshot](/assets/images/screenshot2.png)
 ---
+Technologies used: Express, Mongoose, MongoDB
 
 License: ISC
 
