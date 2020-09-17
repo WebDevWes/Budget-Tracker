@@ -18,8 +18,17 @@ How to use: Single page application, enter a description of your new transaction
 ---
 ![Screenshot](/assets/images/screenshot2.png)
 ---
-Technologies used: Express, Mongoose, MongoDB
 
 License: ISC
 
 Contributor: Wesley Tran
+
+### Technologies Used
+
+- HTML
+- CSS
+- Javascript
+- NodeJS
+  - Express
+- MongoDB
+  - Mongoose
