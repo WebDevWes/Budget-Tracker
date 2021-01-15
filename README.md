@@ -1,6 +1,7 @@
 ![License Badge](https://img.shields.io/badge/License-ISC-green.svg)
 
-### Deployed app on Heroku 
+### Deployed app on Heroku
+
 https://secure-headland-85951.herokuapp.com/
 
 ### Github Username: WebDevWes
@@ -16,8 +17,8 @@ Description: Keeps track of your budget with this webapp, can be downloaded as a
 How to use: Single page application, enter a description of your new transaction, enter an amount and finally click whether you wish to ADD or SUBTRACT from your total.
 
 ---
-![Screenshot](/assets/images/screenshot2.png)
----
+
+## ![Screenshot](/assets/images/screenshot2.png)
 
 License: ISC
 
@@ -32,3 +33,4 @@ Contributor: Wesley Tran
   - Express
 - MongoDB
   - Mongoose
+- Service Workers / file caching
